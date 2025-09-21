@@ -19,4 +19,4 @@ Welcome to my project portfolio!
 - [Spectrum Allocation Tools](https://github.com/yourusername/rf-tools)  
 
 ---
-[Resume (PDF)](https://link-to-resume.com) | [LinkedIn]((https://www.linkedin.com/in/jessicanhenson/))
+[Resume (PDF)](https://link-to-resume.com) | [LinkedIn](https://www.linkedin.com/in/jessicanhenson/)
