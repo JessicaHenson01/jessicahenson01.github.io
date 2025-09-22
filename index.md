@@ -30,4 +30,4 @@ Welcome to my portfolio!
 - Cornell University Capter, Engineers Without Boarders | Team Lead and Member (11/20 - 05/24)
 
 ---
-[Resume (PDF)](https://link-to-resume.com) | [LinkedIn](https://www.linkedin.com/in/jessicanhenson/) | [Email](jnh84@cornell.edu)
+[Resume (PDF)](Resume_09_21_2025.pdf) | [LinkedIn](https://www.linkedin.com/in/jessicanhenson/) | [Email](jnh84@cornell.edu)
