@@ -17,7 +17,7 @@ Welcome to my portfolio!
 ## 🤖 Robotics + Embbedded Systems
 - [Engineers Without Boarders: Digital Ag](https://ewb-dig-ag.org/)
 - [Maze Solving Robot](https://github.com/JessicaHenson01/MazeBot/tree/main) 
-- [Food Computer: Self Contained Greenhouse](https://github.com/yourusername/rrt-planner)  # Need to add
+- [Food Computer: Self Contained Greenhouse](https://github.com/JessicaHenson01/FoodComputer.git)  # Need to add
 - [Disco Lamp](https://github.com/JessicaHenson01/DiscoLamp.git)
 
 ## Software
