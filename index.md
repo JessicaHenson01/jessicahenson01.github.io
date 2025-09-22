@@ -1,33 +1,43 @@
 # Jessica Henson
 Robotics | Embedded Systems | Controls | RF Engineering  
 
-Welcome to my portfolio!  
-
-## Work Experience
-- Radio Frequency Engineer
-- Embedded Software Intern
-- Data Science Contractor
-- Computer Science Intern
-
-## 🔲 FPGA
-- [FPGA VGA + Accelerometer Controller](https://github.com/yourusername/fpga-vga-accelerometer)  # Need to add
-- [ALU and Pipelined Microporcesser]() # Need to add
-
-
-## 🤖 Robotics + Embbedded Systems
-- [Engineers Without Boarders: Digital Ag](https://ewb-dig-ag.org/)
-- [Maze Solving Robot](https://github.com/JessicaHenson01/MazeBot/tree/main) 
-- [Food Computer: Self Contained Greenhouse](https://github.com/JessicaHenson01/FoodComputer.git)  # Need to add
-- [Disco Lamp](https://github.com/JessicaHenson01/DiscoLamp.git)
-
-## Software
-- [Terminal Based Mindsweeper](https://github.com/JessicaHenson01/TerminalMinesweeper)
-- [Image Catigorizer]() # Need to add
-- [Daily RVU Calculator]() # Need to add
-
-## Affiliations
-- Cornell University Chapter, IEEE | Exectutive Board Socail Chair (08/22 - 05/24)
-- Cornell University Capter, Engineers Without Boarders | Team Lead and Member (11/20 - 05/24)
+Welcome to my portfolio! I’m an engineer passionate about building reliable hardware–software systems in robotics, embedded systems, and RF engineering. Below is a selection of my work experience, projects, and affiliations.  
 
 ---
-[Resume (PDF)](Resume_09_21_2025.pdf) | [LinkedIn](https://www.linkedin.com/in/jessicanhenson/) | [Email](jnh84@cornell.edu)
+
+## 💼 Work Experience
+- **Radio Frequency Engineer** – Supported the Navy’s approval processes for RF systems, gaining hands-on experience with compliance, testing, and spectrum analysis.  
+- **Embedded Software Intern** – Developed firmware for microcontroller-based systems with a focus on reliability and performance optimization.  
+- **Data Science Contractor** – Delivered workflow analysis and custom tools for a radiologist group, streamlining data-driven decision-making.  
+- **Computer Science Intern** – Built software solutions to support academic computing and data management.  
+
+---
+
+## 🔲 FPGA
+- [FPGA VGA + Accelerometer Controller](https://github.com/yourusername/fpga-vga-accelerometer) – Designed in VHDL to interface an SPI accelerometer with VGA rendering for real-time display.  
+- [ALU and Pipelined Microprocessor]() – Implemented a pipelined processor in VHDL, including an ALU, control logic, and instruction execution.  
+
+---
+
+## 🤖 Robotics + Embedded Systems
+- [Engineers Without Borders: Digital Ag](https://ewb-dig-ag.org/) – Designed low-cost digital agriculture tools to improve farming efficiency in rural communities.  
+- [Maze Solving Robot](https://github.com/JessicaHenson01/MazeBot/tree/main) – Programmed an autonomous robot using sensor-driven algorithms to navigate unknown mazes.  
+- [Food Computer: Self-Contained Greenhouse](https://github.com/JessicaHenson01/FoodComputer.git) – Built a controlled-environment hydroponics system with sensors, pumps, and lighting automation.  
+- [Disco Lamp](https://github.com/JessicaHenson01/DiscoLamp.git) – Created an interactive RGB lamp using embedded programming and custom PCB design.  
+
+---
+
+## 💻 Software
+- [Terminal-Based Minesweeper](https://github.com/JessicaHenson01/TerminalMinesweeper) – Implemented a playable text-based version of Minesweeper with Python.  
+- [Image Categorizer]() – Built a classification tool for organizing large image datasets (in progress).  
+- [Daily RVU Calculator]() – Developed a workflow tool for radiologists to automatically calculate daily work output (in progress).  
+
+---
+
+## 🌍 Affiliations
+- Cornell University Chapter, **IEEE** – Executive Board Social Chair (08/22 – 05/24)  
+- Cornell University Chapter, **Engineers Without Borders** – Team Lead & Member (11/20 – 05/24)  
+
+---
+
+📄 [Resume (PDF)](Resume_09_21_2025.pdf) | [LinkedIn](https://www.linkedin.com/in/jessicanhenson/) | [Email](mailto:jnh84@cornell.edu)
