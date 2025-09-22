@@ -9,8 +9,9 @@ Welcome to my portfolio!
 - Data Science Contractor
 - Computer Science Intern
 
-## 🔲 FPGA + Embedded Systems
+## 🔲 FPGA
 - [FPGA VGA + Accelerometer Controller](https://github.com/yourusername/fpga-vga-accelerometer)  # Need to add
+- [ALU and Pipelined Microporcesser]() # Need to add
 
 
 ## 🤖 Robotics + Embbedded Systems
@@ -23,6 +24,10 @@ Welcome to my portfolio!
 - [Terminal Based Mindsweeper](https://github.com/JessicaHenson01/TerminalMinesweeper)
 - [Image Catigorizer]() # Need to add
 - [Daily RVU Calculator]() # Need to add
+
+## Affiliations
+- Cornell University Chapter, IEEE | Exectutive Board Socail Chair (08/22 - 05/24)
+- Cornell University Capter, Engineers Without Boarders | Team Lead and Member (11/20 - 05/24)
 
 ---
 [Resume (PDF)](https://link-to-resume.com) | [LinkedIn](https://www.linkedin.com/in/jessicanhenson/) | [Email](jnh84@cornell.edu)
