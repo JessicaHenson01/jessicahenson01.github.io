@@ -20,7 +20,8 @@ Welcome to my portfolio! I’m an engineer passionate about building reliable ha
 ---
 
 ## 🤖 Robotics + Embedded Systems
-- [Engineers Without Borders: Digital Ag](https://ewb-dig-ag.org/) – Designed low-cost digital agriculture tools to improve farming efficiency in rural communities.  
+- [Engineers Without Borders: Digital Ag](https://ewb-dig-ag.org/) – Designed low-cost digital agriculture tools to improve farming efficiency in rural communities.
+- [F1/100th](annotated-Final%20Report%20ECE%206960.pdf) - Built a F1/100th car, modeled from the F1/10th race cars
 - [Maze Solving Robot](https://github.com/JessicaHenson01/MazeBot/tree/main) – Programmed an autonomous robot using sensor-driven algorithms to navigate unknown mazes.  
 - [Food Computer: Self-Contained Greenhouse](https://github.com/JessicaHenson01/FoodComputer.git) – Built a controlled-environment hydroponics system with sensors, pumps, and lighting automation.  
 - [Disco Lamp](https://github.com/JessicaHenson01/DiscoLamp.git) – Created an interactive RGB lamp using embedded programming and custom PCB design.  
