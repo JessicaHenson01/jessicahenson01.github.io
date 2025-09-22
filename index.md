@@ -14,7 +14,7 @@ Welcome to my portfolio! I’m an engineer passionate about building reliable ha
 ---
 
 ## 🔲 FPGA
-- [FPGA VGA + Accelerometer Controller](https://github.com/yourusername/fpga-vga-accelerometer) – Designed in VHDL to interface an SPI accelerometer with VGA rendering for real-time display.  
+- [FPGA VGA + Accelerometer Controller](https://github.com/JessicaHenson01/checkerboard.git) – Designed in VHDL to interface an SPI accelerometer with VGA rendering for real-time display.  
 - [ALU and Pipelined Microprocessor]() – Implemented a pipelined processor in VHDL, including an ALU, control logic, and instruction execution.  
 
 ---
