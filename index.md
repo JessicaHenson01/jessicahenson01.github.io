@@ -7,7 +7,7 @@ Welcome to my project portfolio!
 - [FPGA VGA + Accelerometer Controller](https://github.com/yourusername/fpga-vga-accelerometer)  # Need to add
 - [Disco Lamp](https://github.com/JessicaHenson01/DiscoLamp.git)
 
-## 🤖 Robotics & Motion Planning
+## 🤖 Robotics
 - [Maze Solving Robot](https://github.com/JessicaHenson01/MazeBot/tree/main) 
 - [Food Computer: Self Contained Greenhouse](https://github.com/yourusername/rrt-planner)  # Need to add
 
