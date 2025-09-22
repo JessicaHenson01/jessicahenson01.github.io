@@ -1,7 +1,13 @@
 # Jessica Henson
 Robotics | Embedded Systems | Controls | RF Engineering  
 
-Welcome to my project portfolio!  
+Welcome to my portfolio!  
+
+## Work Experience
+- Radio Frequency Engineer
+- Embedded Software Intern
+- Data Science Contractor
+- Computer Science Intern
 
 ## 🔲 FPGA + Embedded Systems
 - [FPGA VGA + Accelerometer Controller](https://github.com/yourusername/fpga-vga-accelerometer)  # Need to add
