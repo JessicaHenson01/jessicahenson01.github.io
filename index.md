@@ -11,7 +11,7 @@ Welcome to my project portfolio!
 - [Maze Solving Robot](https://github.com/JessicaHenson01/MazeBot/tree/main) 
 - [Food Computer: Self Contained Greenhouse](https://github.com/yourusername/rrt-planner)  # Need to add
 
-## Computer Science
+## Software
 - [Terminal Based Mindsweeper](https://github.com/JessicaHenson01/TerminalMinesweeper)  
 
 ---
