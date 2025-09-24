@@ -29,7 +29,7 @@ Welcome to my portfolio! I’m an engineer passionate about building reliable ha
 ---
 
 ## 💻 Software
-- [Terminal-Based Minesweeper](https://github.com/JessicaHenson01/TerminalMinesweeper) – Implemented a playable text-based version of Minesweeper with Python.  
+- [Terminal-Based Minesweeper](https://github.com/JessicaHenson01/TerminalMinesweeper) – Implemented a playable text-based version of Minesweeper with Ocaml.  
 - [Image Categorizer]() – Built a classification tool for organizing large image datasets (in progress).  
 - [Daily RVU Calculator]() – Developed a workflow tool for radiologists to automatically calculate daily work output (in progress).  
 
