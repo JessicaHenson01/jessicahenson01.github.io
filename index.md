@@ -6,8 +6,8 @@ Welcome to my portfolio! I’m an engineer passionate about building reliable ha
 ---
 
 ## 💼 Work Experience
-- **Radio Frequency Engineer** – Supported the Navy’s approval processes for RF systems, gaining hands-on experience with compliance, testing, and spectrum analysis.  
-- **Embedded Software Intern** – Developed firmware for microcontroller-based systems with a focus on reliability and performance optimization.  
+- **Radio Frequency Engineer** – Supporting the Navy’s compliance and approval processes for RF systems, Implmenting automation efforts in python to increase efficency for system analysis in the Air Force Spectrum Management Office
+- **Embedded Software Intern** - Developed firmware for microcontroller-based systems with a focus on reliability and performance optimization.  
 - **Data Science Contractor** – Delivered workflow analysis and custom tools for a radiologist group, streamlining data-driven decision-making.  
 - **Computer Science Intern** – Built software solutions to support academic computing and data management.  
 
@@ -15,6 +15,7 @@ Welcome to my portfolio! I’m an engineer passionate about building reliable ha
 
 ## 🤖 Robotics + Embedded Systems
 - [Engineers Without Borders: Digital Ag](https://ewb-dig-ag.org/) – Designed low-cost digital agriculture tools to improve farming efficiency in rural communities.
+- [Diff-Drive ROS2 Robot Model](https://github.com/JessicaHenson01/Differential-Drive-Controller) -  implements a complete, closed-loop control system for a Differential Drive Robotic Vehicle within a simulated environment using the ROS 2.
 - [Food Computer: Self-Contained Greenhouse](https://github.com/JessicaHenson01/FoodComputer.git) – Built a controlled-environment hydroponics system with sensors, pumps, and lighting automation.  
 - [F1/100th](F1-FinalReportECE.pdf) - Built a F1/100th car, modeled from the F1/10th race cars
 - [Maze Solving Robot](https://github.com/JessicaHenson01/MazeBot/tree/main) – Programmed an autonomous robot using sensor-driven algorithms to navigate unknown mazes.  
